@@ -1,4 +1,43 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/YourName/YourGame/releases/latest"
+    "version": "1.0.1",
+    "channel": "stable",
+    "notes": "First update",
+    "files": [
+        {
+            "path": "uno_client.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/uno_client.py"
+        },
+        {
+            "path": "system_data/update.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/update.py"
+        },
+        {
+            "path": "system_data/api_menu.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/api_menu.py"
+        },
+        {
+            "path": "system_data/bot.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/bot.py"
+        },
+        {
+            "path": "system_data/play_classic.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/play_classic.py"
+        },
+        {
+            "path": "system_data/uno_ui.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/uno_ui.py"
+        },
+        {
+            "path": "system_data/utility/update_utility.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/utility/update_utility.py"
+        },
+        {
+            "path": "system_data/utility/ui_utility.py",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/utility/ui_utility.py"
+        },
+        {
+            "path": "system_data/utility/changelog.txt",
+            "url": "https://raw.githubusercontent.com/Wiktor-M-21/Uno_Game_2026/main/client/system_data/utility/changelog.txt"
+        }
+    ]
 }
