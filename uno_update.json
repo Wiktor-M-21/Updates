@@ -1,7 +1,7 @@
 {
     "version": "1.0.1",
     "channel": "stable",
-    "notes": "First update",
+    "notes": "Fixed Branching",
     "files": [
         {
             "path": "uno_client.py",
